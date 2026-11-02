@@ -14,7 +14,7 @@ type: Bug
 - Board / unit:
 - Branch @ commit:
 - Build / config: <!-- e.g. cmake_gcc Release, device type, profile, SDK version -->
-- Peers / network: <!-- e.g. Border Router build, PAN, RSSI -->
+- Peers / network: <!-- e.g. BR build, PAN, RSSI -->
 
 ### Steps to Reproduce
 1.

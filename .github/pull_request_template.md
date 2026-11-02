@@ -2,6 +2,7 @@
 Title: [ t<N> MODULE Past-Tense Outcome ]
 Land by rebase and merge. Squash fixups (git rebase --autosquash) first.
 -->
+
 ## Related Issue
 Closes #<N> (part of #<map>)
 
@@ -22,6 +23,6 @@ bench/RTT evidence, or "build only" when that is the truth. -->
 - [ ] No build or Lint warnings
 - [ ] All PR files intentional, no stray config/debug files
 - [ ] Merge conflicts resolved
-- [ ] IFD Embedded C Guidelines checked
+- [ ] run /embedded-c-style
 - [ ] Reviewer assigned
 - [ ] RAM / flash / CPU / current impact measured and reported <!-- delete if not relevant -->
